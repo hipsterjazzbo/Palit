@@ -10,6 +10,7 @@ $colors_key=array_keys($colors);
 <head>
 </head>
 <body>
+<img src="image.jpg" />
 <table border="1">
 <tr><th colspan="3">test.jpg</th></tr>
 <tr><td>Color</td><td>Count</td><td>Color value</td></tr>
